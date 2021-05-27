@@ -1,0 +1,15 @@
+{
+  "name": "@joshyzou/pisolver",
+  "version": "1.0.1",
+  "description": "calculates pi when you input the number of digits to calculate to.",
+  "license": "MIT",
+  "repository": "https://github.com/Joshua-Zou/piCalculator",
+  "main": "index.js",
+  "keywords": [
+    "pi",
+    "math",
+    "solve",
+    "joshyzou"
+  ],
+  "dependencies": {}
+}
