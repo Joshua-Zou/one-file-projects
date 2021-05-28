@@ -1,6 +1,7 @@
-# Array To Object - ### Ok this doesn't even deserve it's place *here* but... it was one of my first projects that I made, so it has a special place in my heart
+# Array To Object
 
-  
+`Ok this doesn't even deserve it's place *here* but... it was one of my first projects that I made, so it has a special place in my heart`
+
 
 Use this npm package to convert an array of objects to one object. For example, in the code below, the array `foo` contains 3 objects
 ```
