@@ -1,7 +1,10 @@
-let sourceLang = window.sourceLang || "en";
-   let targetLang = window.targetLang || "zh";
+var sourceLang = window.sourceLang || "en";
+var targetLang = window.targetLang || "zh";
 
    var init = async function(){
+      sourceLang = window.sourceLang || "en";
+      targetLang = window.targetLang || "zh";
+
       var A = document.querySelectorAll("a");
      var P = document.querySelectorAll("p");
      var SPAN = document.querySelectorAll("span");
