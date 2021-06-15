@@ -16,7 +16,7 @@ the window.init() function can be run at any time to refresh the page data if so
     window.targetLang = "ru";
 </script>
 
-<script src="https://cdn.jsdelivr.net/npm/instatranslate/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/instatranslate@latest/index.min.js"></script>
 
 <script>
     window.init();
