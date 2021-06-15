@@ -1,0 +1,15 @@
+{
+  "name": "instatranslate",
+  "version": "1.0.0",
+  "description": "A page translater that makes it easy to serve multiple languages on your site!",
+  "license": "MIT",
+  "repository": "https://github.com/Joshua-Zou/one-file-projects/tree/main/pisolver",
+  "main": "index.js",
+  "keywords": [
+    "language",
+    "html",
+    "translator",
+    "website"
+  ],
+  "dependencies": {}
+}
