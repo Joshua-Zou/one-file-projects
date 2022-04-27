@@ -45,3 +45,5 @@ the window.init() function can be run at any time to refresh the page data if so
 |es|Spanish|
 |tr|Turkish|
 |vi|Vietmanese|
+
+ ![](https://analytics-server-orpin.vercel.app/api/npm_package?name=instatranslate)
