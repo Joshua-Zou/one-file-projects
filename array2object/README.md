@@ -39,3 +39,5 @@ let output = arrayConverter(array, keyField)
 console.log(output)
 ```
 If the package get's a pending promise as the array, it will return: `I got a pending promise that was not fulfilled yet.` And if it gets something that is not an array, it will return: `I didn't get a vaild array` If the key you inputed is not valid, then it will return: `The key that you input probably isn't valid` And lastly, if you didn't input a key at all, then it will return: `I didn't get a key field to reduce it to.`
+
+ ![](https://analytics-server-orpin.vercel.app/api/npm_package?name=array2object)
