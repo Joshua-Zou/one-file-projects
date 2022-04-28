@@ -25,3 +25,4 @@ console.log(result)
 
 //will output 31415926535897932384626433832795028841971693993746 as a string, and not a number
 ```
+ ![](https://analytics-server-orpin.vercel.app/api/npm_package?name=pisolver)
